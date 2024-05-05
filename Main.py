@@ -511,7 +511,7 @@ def main(username="root", password=""):
 	glfw.terminate()
 
 if __name__ == "__main__":
-	main(password="Codingforlife4ever")
+	main(password="****")
 	
 	# imgui creates a file called "imgui.ini" that stores position and other data of all other 
 	# sub windows to allow continuity of position between runs which we don't want
